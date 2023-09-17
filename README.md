@@ -41,13 +41,3 @@ Desarrollador Web
  <img src="https://img.shields.io/badge/4Geeks%20Academy-0078D7?style=for-the-badge&logo=Color=black">
  <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white">
  <img src="https://img.shields.io/badge/grow.google-FFFFFF?style=for-the-badge&logo=google&logoColor=black">
-
----
-
-### Contacto
-<a href="https://javilomark.com">
-  <img src="https://img.shields.io/badge/MySite-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white">
-</a> 
-<a href="https://www.linkedin.com/in/javilomark">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
